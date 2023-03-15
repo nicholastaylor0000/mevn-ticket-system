@@ -1,0 +1,17 @@
+{
+  "name": "mevn-ticket-system",
+  "version": "1.0.0",
+  "description": "Ticket System created by using Node.js, Express, MongoDB which will connect to Vue.js front-end",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nicholas taylor",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  }
+}
